@@ -23,4 +23,5 @@ That's it — the board rebuilds itself.
 
 ## Current rankings
 
+- **A** — Stone Factory Pub: "Actually really good. Full flavored. Better than Texas de Brazil."
 - **A** — Texas de Brazil: "Pretty good, not super olive-ey."
