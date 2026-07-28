@@ -3,11 +3,11 @@
 // tier: one of "S", "A", "B", "C", "D", "F"
 const MARTINIS = [
   {
-    id: "stone-factory-pub",
-    name: "Stone Factory Pub",
-    location: "Stone Factory Pub",
+    id: "salt-factory-pub",
+    name: "Salt Factory Pub",
+    location: "Salt Factory Pub",
     tier: "A",
-    image: "images/stone-factory-pub.jpeg",
+    image: "images/salt-factory-pub.jpeg",
     notes: "Actually really good. Full flavored. Better than Texas de Brazil.",
     date: "2026-07-28",
   },
