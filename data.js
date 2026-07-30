@@ -23,10 +23,10 @@ const MARTINIS = [
 ];
 
 const TIERS = [
-  { id: "S", label: "S", blurb: "Transcendent. Dream about it." },
-  { id: "A", label: "A", blurb: "Excellent. Order it again." },
-  { id: "B", label: "B", blurb: "Solid. No complaints." },
-  { id: "C", label: "C", blurb: "Fine. It's a martini." },
-  { id: "D", label: "D", blurb: "Disappointing." },
-  { id: "F", label: "F", blurb: "Pour it out." },
+  { id: "S", label: "S", blurb: "Dream about it" },
+  { id: "A", label: "A", blurb: "Order it again" },
+  { id: "B", label: "B", blurb: "No complaints" },
+  { id: "C", label: "C", blurb: "It's a martini" },
+  { id: "D", label: "D", blurb: "Let down" },
+  { id: "F", label: "F", blurb: "Pour it out" },
 ];
