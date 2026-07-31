@@ -15,34 +15,35 @@
     ));
   }
 
-  function cardHTML(m, order) {
-    const stagger = 90 + order * 70; // one cascading reveal, ms
+  function entryHTML(m) {
     return `
-      <article class="card" style="--stagger:${stagger}ms">
-        <img class="card-photo" src="${esc(m.image)}" alt="Dirty martini at ${esc(m.location)}" loading="lazy" />
-        <div class="card-body">
-          <h3 class="card-name">${esc(m.name)}</h3>
-          ${m.location ? `<p class="card-loc">${esc(m.location)}</p>` : ""}
-          ${m.notes ? `<p class="card-notes">“${esc(m.notes)}”</p>` : ""}
-          ${m.date ? `<p class="card-date">${fmtDate(m.date)}</p>` : ""}
+      <article class="entry pre">
+        <img class="entry-photo" src="${esc(m.image)}" alt="Dirty martini at ${esc(m.location)}" loading="lazy" />
+        <div class="entry-copy">
+          <div class="entry-line">
+            <span class="entry-name">${esc(m.name)}</span>
+            <span class="leader" aria-hidden="true"></span>
+            ${m.date ? `<span class="entry-date">${fmtDate(m.date)}</span>` : ""}
+          </div>
+          ${m.notes ? `<p class="entry-note">“${esc(m.notes)}”</p>` : ""}
         </div>
       </article>`;
   }
 
   function render() {
-    let order = 0;
     board.innerHTML = TIERS.map((tier) => {
-      const items = MARTINIS
-        .filter((m) => m.tier === tier.id)
-        .map((m) => cardHTML(m, order++))
-        .join("");
+      const inTier = MARTINIS.filter((m) => m.tier === tier.id);
+      const body = inTier.length
+        ? `<div class="entries">${inTier.map(entryHTML).join("")}</div>`
+        : `<p class="tier-empty">no entries yet — the night is young</p>`;
       return `
-        <section class="tier-row tier-${tier.id}">
-          <div class="tier-badge">
-            <span class="letter">${esc(tier.label)}</span>
-            <span class="blurb">${esc(tier.blurb)}</span>
+        <section class="tier tier-${tier.id}">
+          <div class="tier-head">
+            <span class="seal">${esc(tier.label)}</span>
+            <span class="tier-name">${esc(tier.blurb)}</span>
+            <span class="tier-rule" aria-hidden="true"></span>
           </div>
-          <div class="tier-items">${items}</div>
+          ${body}
         </section>`;
     }).join("");
 
@@ -51,6 +52,22 @@
     const m = total === 1 ? "martini" : "martinis";
     const p = places === 1 ? "bar" : "bars";
     tallyEl.textContent = `${total} ${m} judged across ${places} ${p}. The list grows.`;
+
+    revealEntries();
+  }
+
+  // Staggered reveal via class removal + CSS transition (no keyframe fill,
+  // so hover and un-hover never fight over transform).
+  function revealEntries() {
+    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const entries = board.querySelectorAll(".entry.pre");
+    if (reduce) {
+      entries.forEach((el) => el.classList.remove("pre"));
+      return;
+    }
+    entries.forEach((el, i) => {
+      setTimeout(() => el.classList.remove("pre"), 90 + i * 80);
+    });
   }
 
   render();
