@@ -1,11 +1,13 @@
 // Dirty Martini Tier List — data
 // To add a new martini, drop a photo in /images and add an object below.
 // tier: one of "S", "A", "B", "C", "D", "F"
+// city: "City, ST" (optional) — shown under the bar name
 const MARTINIS = [
   {
     id: "salt-factory-pub",
     name: "Salt Factory Pub",
     location: "Salt Factory Pub",
+    city: "Huntsville, AL",
     tier: "A",
     image: "images/salt-factory-pub.jpeg",
     notes: "Actually really good. Full flavored. Better than Texas de Brazil.",
@@ -15,6 +17,7 @@ const MARTINIS = [
     id: "texas-de-brazil",
     name: "Texas de Brazil",
     location: "Texas de Brazil",
+    city: "Huntsville, AL",
     tier: "A",
     image: "images/texas-de-brazil.jpeg",
     notes: "Pretty good, not super olive-ey.",

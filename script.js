@@ -25,6 +25,7 @@
             <span class="leader" aria-hidden="true"></span>
             ${m.date ? `<span class="entry-date">${fmtDate(m.date)}</span>` : ""}
           </div>
+          ${m.city ? `<p class="entry-place">${esc(m.city)}</p>` : ""}
           ${m.notes ? `<p class="entry-note">“${esc(m.notes)}”</p>` : ""}
         </div>
       </article>`;
