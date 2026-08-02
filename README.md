@@ -12,6 +12,7 @@ A running, ruthlessly honest tier list of dirty martinis. Static site — just o
   id: "some-place",
   name: "Some Place",
   location: "Some Place",
+  city: "City, ST",        // optional
   tier: "A",              // S, A, B, C, D, or F
   image: "images/some-place.jpeg",
   notes: "Your tasting note.",
@@ -25,3 +26,4 @@ That's it — the board rebuilds itself.
 
 - **A** — Salt Factory Pub: "Actually really good. Full flavored. Better than Texas de Brazil."
 - **A** — Texas de Brazil: "Pretty good, not super olive-ey."
+- **B** — J. Alexander's: "Not super full or olive-ey. Only escaped C tier because they gave an extra glass to refill."

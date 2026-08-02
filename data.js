@@ -4,6 +4,16 @@
 // city: "City, ST" (optional) — shown under the bar name
 const MARTINIS = [
   {
+    id: "j-alexanders",
+    name: "J. Alexander's",
+    location: "J. Alexander's",
+    city: "Huntsville, AL",
+    tier: "B",
+    image: "images/j-alexanders.jpeg",
+    notes: "Not super full or olive-ey. Only escaped C tier because they gave an extra glass to refill.",
+    date: "2026-08-02",
+  },
+  {
     id: "salt-factory-pub",
     name: "Salt Factory Pub",
     location: "Salt Factory Pub",
