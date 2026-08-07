@@ -4,6 +4,16 @@
 // city: "City, ST" (optional) — shown under the bar name
 const MARTINIS = [
   {
+    id: "chucks-fish",
+    name: "Chuck's Fish",
+    location: "Chuck's Fish",
+    city: "Madison, AL",
+    tier: "S",
+    image: "images/chucks-fish.jpeg",
+    notes: "Good alcohol flavor and good olive flavor.",
+    date: "2026-08-07",
+  },
+  {
     id: "j-alexanders",
     name: "J. Alexander's",
     location: "J. Alexander's",
