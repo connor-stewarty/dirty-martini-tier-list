@@ -27,4 +27,5 @@ That's it — the board rebuilds itself.
 - **S** — Chuck's Fish: "Good alcohol flavor and good olive flavor."
 - **A** — Salt Factory Pub: "Actually really good. Full flavored. Better than Texas de Brazil."
 - **A** — Texas de Brazil: "Pretty good, not super olive-ey."
+- **B** — Irving Public: "It's good but you can tell it's house gin."
 - **B** — J. Alexander's: "Not super full or olive-ey. Only escaped C tier because they gave an extra glass to refill."

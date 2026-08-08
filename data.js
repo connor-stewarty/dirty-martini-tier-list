@@ -14,6 +14,16 @@ const MARTINIS = [
     date: "2026-08-07",
   },
   {
+    id: "irving-public",
+    name: "Irving Public",
+    location: "Irving Public",
+    city: "Jersey City, NJ",
+    tier: "B",
+    image: "images/irving-public.jpeg",
+    notes: "It's good but you can tell it's house gin.",
+    date: "2026-08-08",
+  },
+  {
     id: "j-alexanders",
     name: "J. Alexander's",
     location: "J. Alexander's",
