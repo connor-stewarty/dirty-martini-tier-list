@@ -29,4 +29,5 @@ That's it — the board rebuilds itself.
 - **A** — Texas de Brazil: "Pretty good, not super olive-ey."
 - **B** — Irving Public: "It's good but you can tell it's house gin."
 - **C** — RA Sushi: "Not bad but missing something, not very full. Only one olive."
+- **D** — Bubby's: "Bitter aftertaste. Still G.I.N. by Dre and Snoop."
 - **B** — J. Alexander's: "Not super full or olive-ey. Only escaped C tier because they gave an extra glass to refill."

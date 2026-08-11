@@ -14,6 +14,16 @@ const MARTINIS = [
     date: "2026-08-07",
   },
   {
+    id: "bubbys",
+    name: "Bubby's",
+    location: "Bubby's",
+    city: "East Elmhurst, Queens, NY",
+    tier: "D",
+    image: "images/bubbys.jpeg",
+    notes: "Bitter aftertaste. Still G.I.N. by Dre and Snoop.",
+    date: "2026-08-11",
+  },
+  {
     id: "ra-sushi",
     name: "RA Sushi",
     location: "RA Sushi",
