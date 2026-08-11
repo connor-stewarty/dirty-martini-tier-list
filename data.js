@@ -14,6 +14,16 @@ const MARTINIS = [
     date: "2026-08-07",
   },
   {
+    id: "ra-sushi",
+    name: "RA Sushi",
+    location: "RA Sushi",
+    city: "New York, NY",
+    tier: "C",
+    image: "images/ra-sushi.jpeg",
+    notes: "Not bad but missing something, not very full. Only one olive.",
+    date: "2026-08-11",
+  },
+  {
     id: "irving-public",
     name: "Irving Public",
     location: "Irving Public",
