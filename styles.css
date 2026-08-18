@@ -249,6 +249,18 @@ body {
   line-height: 1.12;
   color: var(--ink);
 }
+.entry-spirit {
+  flex: none;
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--bg);
+  background: var(--pimento);
+  padding: 0.15rem 0.45rem;
+  border-radius: 2px;
+  transform: translateY(-0.1em);
+}
 .leader {
   flex: 1;
   min-width: 1.5rem;

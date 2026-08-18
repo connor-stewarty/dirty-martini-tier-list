@@ -22,6 +22,7 @@
         <div class="entry-copy">
           <div class="entry-line">
             <span class="entry-name">${esc(m.name)}</span>
+            ${m.spirit ? `<span class="entry-spirit">${esc(m.spirit)}</span>` : ""}
             <span class="leader" aria-hidden="true"></span>
             ${m.date ? `<span class="entry-date">${fmtDate(m.date)}</span>` : ""}
           </div>

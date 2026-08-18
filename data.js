@@ -2,6 +2,9 @@
 // To add a new martini, drop a photo in /images and add an object below.
 // tier: one of "S", "A", "B", "C", "D", "F"
 // city: "City, ST" (optional) — shown under the bar name
+// spirit: "Vodka" etc. (optional) — every entry is gin by default, so this
+//         is only set (and only shown) when a martini broke from that, e.g.
+//         they didn't ask for gin and got vodka instead.
 const MARTINIS = [
   {
     id: "chucks-fish",
