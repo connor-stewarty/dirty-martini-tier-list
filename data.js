@@ -7,6 +7,17 @@
 //         they didn't ask for gin and got vodka instead.
 const MARTINIS = [
   {
+    id: "prohibition-rooftop",
+    name: "Prohibition Rooftop Bar & Grill",
+    location: "Prohibition Rooftop Bar & Grill",
+    city: "Madison, AL",
+    spirit: "Vodka",
+    tier: "F",
+    image: "images/prohibition-rooftop.jpeg",
+    notes: "Obviously made with vodka. Olives dry, not juicy.",
+    date: "2026-08-18",
+  },
+  {
     id: "chucks-fish",
     name: "Chuck's Fish",
     location: "Chuck's Fish",

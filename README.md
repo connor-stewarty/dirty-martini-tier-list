@@ -13,6 +13,7 @@ A running, ruthlessly honest tier list of dirty martinis. Static site — just o
   name: "Some Place",
   location: "Some Place",
   city: "City, ST",        // optional
+  spirit: "Vodka",        // optional — omit unless it's not gin
   tier: "A",              // S, A, B, C, D, or F
   image: "images/some-place.jpeg",
   notes: "Your tasting note.",
@@ -25,6 +26,7 @@ That's it — the board rebuilds itself.
 ## Current rankings
 
 - **S** — Chuck's Fish: "Good alcohol flavor and good olive flavor."
+- **F** — Prohibition Rooftop Bar & Grill (vodka): "Obviously made with vodka. Olives dry, not juicy."
 - **A** — Salt Factory Pub: "Actually really good. Full flavored. Better than Texas de Brazil."
 - **A** — Texas de Brazil: "Pretty good, not super olive-ey."
 - **B** — Irving Public: "It's good but you can tell it's house gin."
