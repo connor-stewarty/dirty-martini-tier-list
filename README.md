@@ -27,6 +27,7 @@ That's it — the board rebuilds itself.
 
 - **S** — Chuck's Fish: "Good alcohol flavor and good olive flavor."
 - **F** — Prohibition Rooftop Bar & Grill (vodka): "Obviously made with vodka. Olives dry, not juicy."
+- **C** — Prohibition Rooftop Bar & Grill (2nd visit): "Better than vodka, but still nothing special. Olives are dry."
 - **A** — Salt Factory Pub: "Actually really good. Full flavored. Better than Texas de Brazil."
 - **A** — Texas de Brazil: "Pretty good, not super olive-ey."
 - **B** — Irving Public: "It's good but you can tell it's house gin."

@@ -7,6 +7,16 @@
 //         they didn't ask for gin and got vodka instead.
 const MARTINIS = [
   {
+    id: "prohibition-rooftop-2",
+    name: "Prohibition Rooftop Bar & Grill (2nd visit)",
+    location: "Prohibition Rooftop Bar & Grill",
+    city: "Madison, AL",
+    tier: "C",
+    image: "images/prohibition-rooftop-2.jpeg",
+    notes: "Better than vodka, but still nothing special. Olives are dry.",
+    date: "2026-08-18",
+  },
+  {
     id: "prohibition-rooftop",
     name: "Prohibition Rooftop Bar & Grill",
     location: "Prohibition Rooftop Bar & Grill",
