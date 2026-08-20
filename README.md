@@ -34,3 +34,4 @@ That's it — the board rebuilds itself.
 - **C** — RA Sushi: "Not bad but missing something, not very full. Only one olive."
 - **D** — Bubby's: "Bitter aftertaste. Still G.I.N. by Dre and Snoop."
 - **B** — J. Alexander's: "Not super full or olive-ey. Only escaped C tier because they gave an extra glass to refill."
+- **B** — Walk-On's Sports: "Decent flavor, very cold, olives are juicy."
