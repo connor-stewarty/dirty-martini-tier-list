@@ -7,6 +7,16 @@
 //         they didn't ask for gin and got vodka instead.
 const MARTINIS = [
   {
+    id: "coopers-hawk",
+    name: "Cooper's Hawk Winery & Restaurant",
+    location: "Cooper's Hawk Winery & Restaurant",
+    city: "Madison, AL",
+    tier: "A",
+    image: "images/coopers-hawk.jpeg",
+    notes: "It's good, could be olivey-er. Blue cheese olives are a plus.",
+    date: "2026-08-22",
+  },
+  {
     id: "walk-ons-sports",
     name: "Walk-On's Sports",
     location: "Walk-On's Sports",

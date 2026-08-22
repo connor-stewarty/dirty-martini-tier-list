@@ -30,6 +30,7 @@ That's it — the board rebuilds itself.
 - **C** — Prohibition Rooftop Bar & Grill (2nd visit): "Better than vodka, but still nothing special. Olives are dry."
 - **A** — Salt Factory Pub: "Actually really good. Full flavored. Better than Texas de Brazil."
 - **A** — Texas de Brazil: "Pretty good, not super olive-ey."
+- **A** — Cooper's Hawk Winery & Restaurant: "It's good, could be olivey-er. Blue cheese olives are a plus."
 - **B** — Irving Public: "It's good but you can tell it's house gin."
 - **C** — RA Sushi: "Not bad but missing something, not very full. Only one olive."
 - **D** — Bubby's: "Bitter aftertaste. Still G.I.N. by Dre and Snoop."
