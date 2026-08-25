@@ -20,7 +20,7 @@
   --font-display: "Bodoni Moda", "Didot", "Times New Roman", serif;
   --font-body: Georgia, "Times New Roman", serif;
   --ease: cubic-bezier(0.16, 1, 0.3, 1);
-  --edge: clamp(14px, 3.2vw, 34px);
+  --edge: clamp(20px, 3.2vw, 34px);
 }
 
 * { box-sizing: border-box; }
@@ -81,15 +81,6 @@ body {
   text-align: center;
 }
 
-.dateline {
-  margin: 0 0 1.4rem;
-  font-family: var(--font-body);
-  font-size: 0.72rem;
-  letter-spacing: 0.32em;
-  text-transform: uppercase;
-  color: var(--brass);
-}
-
 .masthead h1 {
   font-family: var(--font-display);
   font-optical-sizing: auto;
@@ -122,16 +113,16 @@ body {
 
 .lede {
   color: var(--ink-dim);
-  font-size: 1.05rem;
-  line-height: 1.6;
-  max-width: 44ch;
+  font-size: 1.55rem;
+  line-height: 1.4;
+  max-width: 34ch;
   margin: 1.9rem auto 0;
 }
 .tally {
   margin: 1.3rem 0 0;
   font-family: var(--font-display);
   font-style: italic;
-  font-size: 0.98rem;
+  font-size: 1rem;
   color: var(--olive-bright);
 }
 
@@ -298,7 +289,7 @@ body {
   font-style: italic;
 }
 .colophon p { margin: 0.3rem 0; }
-.colophon-fine { font-size: 0.82rem; opacity: 0.65; }
+.colophon-fine { font-size: 0.75rem; opacity: 0.65; }
 
 /* ── Focus ── */
 :focus-visible {
@@ -313,6 +304,7 @@ body {
 }
 
 @media (max-width: 640px) {
+  .masthead h1 { font-size: clamp(2.3rem, 10.5vw, 2.8rem); }
   .entries { grid-template-columns: 1fr; column-gap: 0; }
   .entry-photo { width: 92px; }
   .entry-name { font-size: 1.18rem; }
