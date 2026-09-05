@@ -7,6 +7,16 @@
 //         they didn't ask for gin and got vodka instead.
 const MARTINIS = [
   {
+    id: "phuket-thai",
+    name: "Phuket Thai Restaurant and Sushi",
+    location: "Phuket Thai Restaurant and Sushi",
+    city: "Huntsville, AL",
+    tier: "S",
+    image: "images/phuket-thai.jpeg",
+    notes: "Really good temperature, very cold. Like the ice shards, juicy olives, good amount of dirty.",
+    date: "2026-09-05",
+  },
+  {
     id: "dragon-alley",
     name: "Dragon Alley",
     location: "Dragon Alley",

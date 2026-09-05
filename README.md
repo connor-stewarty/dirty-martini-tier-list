@@ -25,6 +25,7 @@ That's it — the board rebuilds itself.
 
 ## Current rankings
 
+- **S** — Phuket Thai Restaurant and Sushi: "Really good temperature, very cold. Like the ice shards, juicy olives, good amount of dirty."
 - **S** — Dragon Alley: "Good flavor, not too strong, good and juicy olives. Good amount of dirty."
 - **S** — Chuck's Fish: "Good alcohol flavor and good olive flavor."
 - **F** — Prohibition Rooftop Bar & Grill (vodka): "Obviously made with vodka. Olives dry, not juicy."
