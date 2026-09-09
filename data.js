@@ -7,6 +7,16 @@
 //         they didn't ask for gin and got vodka instead.
 const MARTINIS = [
   {
+    id: "outback-steakhouse",
+    name: "Outback Steakhouse",
+    location: "Outback Steakhouse",
+    city: "Madison, AL",
+    tier: "D",
+    image: "images/outback-steakhouse.jpeg",
+    notes: "Way too salty.",
+    date: "2026-09-09",
+  },
+  {
     id: "phuket-thai",
     name: "Phuket Thai Restaurant and Sushi",
     location: "Phuket Thai Restaurant and Sushi",

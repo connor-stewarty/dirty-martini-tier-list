@@ -36,5 +36,6 @@ That's it — the board rebuilds itself.
 - **B** — Irving Public: "It's good but you can tell it's house gin."
 - **C** — RA Sushi: "Not bad but missing something, not very full. Only one olive."
 - **D** — Bubby's: "Bitter aftertaste. Still G.I.N. by Dre and Snoop."
+- **D** — Outback Steakhouse: "Way too salty."
 - **B** — J. Alexander's: "Not super full or olive-ey. Only escaped C tier because they gave an extra glass to refill."
 - **B** — Walk-On's Sports: "Decent flavor, very cold, olives are juicy."
