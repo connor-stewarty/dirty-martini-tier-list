@@ -7,6 +7,16 @@
 //         they didn't ask for gin and got vodka instead.
 const MARTINIS = [
   {
+    id: "old-black-bear",
+    name: "Old Black Bear Brewing Company",
+    location: "Old Black Bear Brewing Company",
+    city: "Madison, AL",
+    tier: "C",
+    image: "images/old-black-bear.jpeg",
+    notes: "Not dirty. Olives not super olive-ey. Something else in there I can't place, throwing me off.",
+    date: "2026-09-16",
+  },
+  {
     id: "outback-steakhouse",
     name: "Outback Steakhouse",
     location: "Outback Steakhouse",

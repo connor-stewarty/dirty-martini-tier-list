@@ -35,6 +35,7 @@ That's it — the board rebuilds itself.
 - **A** — Cooper's Hawk Winery & Restaurant: "It's good, could be olivey-er. Blue cheese olives are a plus."
 - **B** — Irving Public: "It's good but you can tell it's house gin."
 - **C** — RA Sushi: "Not bad but missing something, not very full. Only one olive."
+- **C** — Old Black Bear Brewing Company: "Not dirty. Olives not super olive-ey. Something else in there I can't place, throwing me off."
 - **D** — Bubby's: "Bitter aftertaste. Still G.I.N. by Dre and Snoop."
 - **D** — Outback Steakhouse: "Way too salty."
 - **B** — J. Alexander's: "Not super full or olive-ey. Only escaped C tier because they gave an extra glass to refill."
