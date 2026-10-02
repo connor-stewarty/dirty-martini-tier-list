@@ -7,6 +7,16 @@
 //         they didn't ask for gin and got vodka instead.
 const MARTINIS = [
   {
+    id: "providence-bar",
+    name: "The Providence Bar",
+    location: "The Providence Bar",
+    city: "Huntsville, AL",
+    tier: "B",
+    image: "images/providence-bar.jpeg",
+    notes: "Could be dirtier, blue cheese olives were good. Double checking a recently renewed paper ID killed the vibe.",
+    date: "2026-10-02",
+  },
+  {
     id: "old-black-bear",
     name: "Old Black Bear Brewing Company",
     location: "Old Black Bear Brewing Company",

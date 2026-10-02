@@ -34,6 +34,7 @@ That's it — the board rebuilds itself.
 - **A** — Texas de Brazil: "Pretty good, not super olive-ey."
 - **A** — Cooper's Hawk Winery & Restaurant: "It's good, could be olivey-er. Blue cheese olives are a plus."
 - **B** — Irving Public: "It's good but you can tell it's house gin."
+- **B** — The Providence Bar: "Could be dirtier, blue cheese olives were good. Double checking a recently renewed paper ID killed the vibe."
 - **C** — RA Sushi: "Not bad but missing something, not very full. Only one olive."
 - **C** — Old Black Bear Brewing Company: "Not dirty. Olives not super olive-ey. Something else in there I can't place, throwing me off."
 - **D** — Bubby's: "Bitter aftertaste. Still G.I.N. by Dre and Snoop."
