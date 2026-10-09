@@ -33,6 +33,7 @@ That's it — the board rebuilds itself.
 - **A** — Salt Factory Pub: "Actually really good. Full flavored. Better than Texas de Brazil."
 - **A** — Texas de Brazil: "Pretty good, not super olive-ey."
 - **A** — Cooper's Hawk Winery & Restaurant: "It's good, could be olivey-er. Blue cheese olives are a plus."
+- **A** — Pier 88: "Very smooth, if colder could be S tier. More olives would also help."
 - **B** — Irving Public: "It's good but you can tell it's house gin."
 - **B** — The Providence Bar: "Could be dirtier, blue cheese olives were good. Double checking a recently renewed paper ID killed the vibe."
 - **C** — RA Sushi: "Not bad but missing something, not very full. Only one olive."

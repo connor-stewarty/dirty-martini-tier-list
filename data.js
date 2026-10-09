@@ -7,6 +7,16 @@
 //         they didn't ask for gin and got vodka instead.
 const MARTINIS = [
   {
+    id: "pier-88",
+    name: "Pier 88",
+    location: "Pier 88",
+    city: "Huntsville, AL",
+    tier: "A",
+    image: "images/pier-88.jpeg",
+    notes: "Very smooth, if colder could be S tier. More olives would also help.",
+    date: "2026-10-09",
+  },
+  {
     id: "providence-bar",
     name: "The Providence Bar",
     location: "The Providence Bar",
